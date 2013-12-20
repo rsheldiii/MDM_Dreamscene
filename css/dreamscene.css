@@ -1,0 +1,19 @@
+#backgroundContainer{
+
+}
+
+#background{
+ 	position:fixed;
+ 	opacity:1;
+ 	width:100%;
+ 	height:100%;
+ 	z-index:-1;
+ 	transition: opacity 3s;/*if you change these you need to change the js as well*/
+ 	-webkit-transition: opacity 3s;
+ 	-moz-transition: opacity 3s;
+ 	-o-transition: opacity 3s;
+ }
+
+ .fade{
+ 	opacity:0;
+ }
