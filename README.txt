@@ -16,3 +16,5 @@ you have four options for playing dreamscenes, which can be accessed at the bott
 have fun!
 
 This should be shared under the same CC license the eOS theme is, which I can't find for the life of me right now
+
+in order to install this neme, you need to pack it into a .tar.gz and install using mdm-setup
